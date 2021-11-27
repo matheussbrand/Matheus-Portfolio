@@ -1,6 +1,6 @@
 ## Welcome Matheus Portfolio
 
-<img src="https://img.icons8.com/material/24/000000/linkedin--v3.png" url="https://docs.github.com/categories/github-pages-basics/"/>
+![Github]("https://docs.github.com/categories/github-pages-basics/)
 
 ## About
 
