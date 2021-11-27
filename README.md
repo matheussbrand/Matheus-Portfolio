@@ -1,6 +1,6 @@
 ## Welcome Matheus Portfolio
 
-![Linkedin]("https://docs.github.com/categories/github-pages-basics/)
+[Linkedin]("https://docs.github.com/categories/github-pages-basics/)
 
 ## About
 
