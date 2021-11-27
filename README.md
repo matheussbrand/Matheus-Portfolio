@@ -24,4 +24,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Want to get to know me better? Get in touch, I would love to meet you![Email](https://docs.github.com/categories/github-pages-basics/) | [Whatsapp(_just messages_)](https://bityli.com/ERqtoQ) | [Linkedin](https://www.linkedin.com/in/matheussbrandao/) | [Instagram](https://www.instagram.com/matheussbrand/)
+Want to get to know me better? Get in touch, I would love to meet you!  [Email](https://docs.github.com/categories/github-pages-basics/) | [Whatsapp(_just messages_)](https://bityli.com/ERqtoQ) | [Linkedin](https://www.linkedin.com/in/matheussbrandao/) | [Instagram](https://www.instagram.com/matheussbrand/)
