@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome Matheus Portfolio
 
-You can use the [editor on GitHub](https://github.com/matheussbrand/portfolio-pages/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_In 2014 I graduated in logistics technician at Senai which helped start my career at Latam Airlines, in the logistics sector, soon after I worked as a stockist at TT Burger Alimentos, starting a Psychology degree in the same period, which proposed new challenges and opened up more my vision for food logistics. As soon as the contract ended, I was able to go to the Netherlands in 2019, visiting for a month practicing English and learning some Dutch, I am currently studying data science at Wyden, and I am an intern at Dash Smart Decision as a Data Analystic but in the future I intend to focus and deepen further in the area of artificial intelligence and BI_
+
 
 ### Markdown
 
