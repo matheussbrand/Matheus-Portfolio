@@ -11,7 +11,7 @@ _In 2014 I graduated in logistics technician at Senai which helped start my care
 ###### Projects
 > [Project](https://www.google.com/search?q=github+pages+themes&oq=github+pages+theme&aqs=chrome.0.0i512j69i57j0i22i30l3j69i60l3.9277j0j7&sourceid=chrome&ie=UTF-8)  < [Project1](https://www.google.com/search?q=github+pages+themes&oq=github+pages+theme&aqs=chrome.0.0i512j69i57j0i22i30l3j69i60l3.9277j0j7&sourceid=chrome&ie=UTF-8)
 
-
+```
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
@@ -21,6 +21,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matheussbrand/portfolio-pages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
 
 ### Contact
 
