@@ -1,6 +1,6 @@
 ## Welcome Matheus Portfolio
 
-<link src="https://img.icons8.com/material/24/000000/linkedin--v3.png" charset="https://docs.github.com/categories/github-pages-basics/"/>
+<img src="https://img.icons8.com/material/24/000000/linkedin--v3.png"/: <link rel="https://docs.github.com/categories/github-pages-basics/">
 
 ## About
 
