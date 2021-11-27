@@ -1,6 +1,6 @@
 ## Welcome Matheus Portfolio
 
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<img src="https://img.icons8.com/material/24/000000/linkedin--v3.png" href="https://docs.github.com/categories/github-pages-basics/"/>
 
 ## About
 
@@ -26,4 +26,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact
 
 Want to get to know me better? Get in touch, I would love to meet you!
-[Email](https://docs.github.com/categories/github-pages-basics/) | [Whatsapp(_just messages_)](https://bityli.com/ERqtoQ) |  [](https://www.linkedin.com/in/matheussbrandao/) | <link src="https://img.icons8.com/ios-filled/50/000000/instagram-new--v2.png" rel="https://www.instagram.com/matheussbrand/"/> 
+[Email](https://docs.github.com/categories/github-pages-basics/) | [Whatsapp(_just messages_)](https://bityli.com/ERqtoQ) |  [Linkedin](https://www.linkedin.com/in/matheussbrandao/) | [Instagram](https://www.instagram.com/matheussbrand/)
