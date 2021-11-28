@@ -19,10 +19,11 @@ Google IT Support Certificate
 
 ### Skills
 
-_JAVA_  _C++_   _TABLEAU_  _PANDAS_  _SEABORN_
-_PYTHON_  _HTML5_  _CSS3_  _MICROSOFT OFFICE_  _POWER BI_
+_JAVA_    _C++_    _TABLEAU_    _PANDAS_    _SEABORN_
+_PYTHON_   _HTML5_   _CSS3_    _MICROSOFT OFFICE_   _POWER BI_
 
 ### Contact
 
 Want to get to know me better? Get in touch, I would love to meet you!
+
 ![Email](https://docs.github.com/categories/github-pages-basics/) | [Whatsapp(_just messages_)](https://bityli.com/ERqtoQ) |  [Linkedin](https://www.linkedin.com/in/matheussbrandao/) | [Instagram](https://www.instagram.com/matheussbrand/)
