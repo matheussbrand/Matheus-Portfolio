@@ -26,4 +26,5 @@ _JAVA_      _C++_     _TABLEAU_     _PANDAS_     _SEABORN_     _PYTHON_     _HTM
 
 Want to get to know me better? Get in touch, I would love to meet you!
 
-![Email](https://docs.github.com/categories/github-pages-basics/) | [Whatsapp(_just messages_)](https://bityli.com/ERqtoQ) |  [Linkedin](https://www.linkedin.com/in/matheussbrandao/) | [Instagram](https://www.instagram.com/matheussbrand/)
+![Email](https://docs.github.com/categories/github-pages-basics/) | [Whatsapp(_just messages_)](https://bityli.com/ERqtoQ) |  [Linkedin](https://www.linkedin.com/in/matheussbrandao/) | [Instagram](https://www.instagram.com/matheussbrand/) | [Resume Download](https://drive.google.com/file/d/1K-DQ0ObiQmY-Q4d6X5W_SE75LTnRC366/view?usp=sharing)
+
