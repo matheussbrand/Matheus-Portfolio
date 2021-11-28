@@ -1,4 +1,5 @@
-![Linkedin]("https://docs.github.com/categories/github-pages-basics/)
+<img src="https://img.icons8.com/material-rounded/50/000000/linkedin--v2.png"/> []("https://docs.github.com/categories/github-pages-basics/)
+(https://drive.google.com/file/d/1K-DQ0ObiQmY-Q4d6X5W_SE75LTnRC366/view?usp=sharing)
 
 ### About Me
 
@@ -19,8 +20,7 @@ Google IT Support Certificate
 
 ### Skills
 
-_JAVA_    _C++_    _TABLEAU_    _PANDAS_    _SEABORN_
-_PYTHON_   _HTML5_   _CSS3_    _MICROSOFT OFFICE_   _POWER BI_
+_JAVA_      _C++_     _TABLEAU_     _PANDAS_     _SEABORN_     _PYTHON_     _HTML5_     _CSS3_      _MICROSOFT OFFICE_     _POWER BI_     _R_     _SQL_     _NOSQL_
 
 ### Contact
 
