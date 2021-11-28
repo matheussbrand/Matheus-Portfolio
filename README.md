@@ -1,4 +1,4 @@
-[]("https://docs.github.com/categories/github-pages-basics/") <img src="https://img.icons8.com/material-rounded/50/000000/linkedin--v2.png" rel=/> 
+[]("https://docs.github.com/categories/github-pages-basics/") <img src="https://img.icons8.com/material-rounded/50/000000/linkedin--v2.png" rel="https://docs.github.com/categories/github-pages-basics/"/> 
 [](https://drive.google.com/file/d/1K-DQ0ObiQmY-Q4d6X5W_SE75LTnRC366/view?usp=sharing)
 
 ### About Me
