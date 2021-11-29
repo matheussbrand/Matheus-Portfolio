@@ -6,9 +6,9 @@
 _In 2014 I graduated in logistics technician at Senai which helped start my career at Latam Airlines, in the logistics sector, soon after I worked as a stockist at TT Burger Alimentos, starting a Psychology degree in the same period, which proposed new challenges and opened up more my vision for food logistics. As soon as the contract ended, I was able to go to the Netherlands in 2019, visiting for a month practicing English and learning some Dutch, I am currently studying data science at Wyden, and I am an intern at Dash Smart Decision as a Data Analystic but in the future I intend to focus and deepen further in the area of artificial intelligence and BI_
 
 
-### Projects
+### [Projects](https://github.com/matheussbrand/DataScienceProjects)  
 
-> [Project](https://www.google.com/search?q=github+pages+themes&oq=github+pages+theme&aqs=chrome.0.0i512j69i57j0i22i30l3j69i60l3.9277j0j7&sourceid=chrome&ie=UTF-8)  < [Project1](https://www.google.com/search?q=github+pages+themes&oq=github+pages+theme&aqs=chrome.0.0i512j69i57j0i22i30l3j69i60l3.9277j0j7&sourceid=chrome&ie=UTF-8)
+[Project1](https://www.google.com/search?q=github+pages+themes&oq=github+pages+theme&aqs=chrome.0.0i512j69i57j0i22i30l3j69i60l3.9277j0j7&sourceid=chrome&ie=UTF-8)
 
 ### Professional Qualification
 
