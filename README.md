@@ -20,7 +20,7 @@ Google IT Support Certificate
 
 ### Skills
 
-_JAVA,_      _C++,_     _TABLEAU,_     _PANDAS,_     _SEABORN,_     _PYTHON,_     _HTML5,_     _CSS3,_      _MICROSOFT OFFICE,_     _POWER BI,_     _R,_     _SQL,_     _NOSQL_
+_JAVA,_      _C++,_     _TABLEAU,_     _PANDAS,_     _SEABORN,_     _PYTHON,_     _HTML5,_     _CSS3,_      _MICROSOFT OFFICE,_     _POWER BI,_     _R,_     _SQL,_     _NOSQL,_    _MATPLOTLIB_
 
 ### Contact
 
